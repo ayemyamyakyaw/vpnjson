@@ -10,8 +10,8 @@
     {"name": "Pinterest", "link": "https://www.pinterest.com"}
   ],
   "slider": [
-    {"image": "https://example.com/image1.jpg", "link": "https://link1.com"},
-    {"image": "https://example.com/image2.jpg", "link": "https://link2.com"},
-    {"image": "https://example.com/image3.jpg", "link": "https://link3.com"}
+    {"image": "https://bitlaunch.io/blog/content/images/2022/10/Outline-VPN.png", "link": "https://link1.com"},
+    {"image": "https://bitlaunch.io/blog/content/images/2022/10/Outline-VPN.png", "link": "https://link2.com"},
+    {"image": "https://bitlaunch.io/blog/content/images/2022/10/Outline-VPN.png", "link": "https://link3.com"}
   ]
 }
