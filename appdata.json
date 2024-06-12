@@ -1,0 +1,15 @@
+{
+  "apps": [
+    {
+      "name": "Outline VPN",
+      "logo": "data:image/png;base64,...", // base64 encoded image of logo
+      "downloads": {
+        "mac": "https://example.com/mac",
+        "android": "https://example.com/android",
+        "windows": "https://example.com/windows",
+        "ios": "https://example.com/ios"
+      }
+    }
+    // Add more apps as needed
+  ]
+}
