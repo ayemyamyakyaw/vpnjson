@@ -1,0 +1,17 @@
+{
+  "buttons": [
+    {"name": "Google", "link": "https://www.google.com"},
+    {"name": "Facebook", "link": "https://www.facebook.com"},
+    {"name": "Twitter", "link": "https://www.twitter.com"},
+    {"name": "LinkedIn", "link": "https://www.linkedin.com"},
+    {"name": "Instagram", "link": "https://www.instagram.com"},
+    {"name": "YouTube", "link": "https://www.youtube.com"},
+    {"name": "Reddit", "link": "https://www.reddit.com"},
+    {"name": "Pinterest", "link": "https://www.pinterest.com"}
+  ],
+  "slider": [
+    {"image": "https://example.com/image1.jpg", "link": "https://link1.com"},
+    {"image": "https://example.com/image2.jpg", "link": "https://link2.com"},
+    {"image": "https://example.com/image3.jpg", "link": "https://link3.com"}
+  ]
+}
