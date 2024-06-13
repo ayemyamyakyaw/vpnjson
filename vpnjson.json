@@ -18,8 +18,8 @@
     {"name": "Server17", "link": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFZDJXZnJoSDJsNkJsRUZxdkVFTEt6@167.71.219.89:8090/?outline=1"}
   ],
   "slider": [
-    {"image": "https://bitlaunch.io/blog/content/images/2022/10/Outline-VPN.png", "link": "https://link1.com"},
-    {"image": "https://miro.medium.com/v2/resize:fit:1400/1*uvfm0zhJKdBmWtPVsiH6rA.png", "link": "https://link2.com"},
-    {"image": "https://docs.bytemark.co.uk/wp-content/uploads/2019/10/Outline-VPN.jpg", "link": "https://link3.com"}
+    {"image": "https://raw.githubusercontent.com/ayemyamyakyaw/vpnjson/main/slider/1.png", "link": "https://link1.com"},
+    {"image": "https://raw.githubusercontent.com/ayemyamyakyaw/vpnjson/main/slider/2.png", "link": "https://link2.com"},
+    {"image": "https://raw.githubusercontent.com/ayemyamyakyaw/vpnjson/main/slider/3.png", "link": "https://link3.com"}
   ]
 }
