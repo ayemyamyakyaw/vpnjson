@@ -1,0 +1,97 @@
+{
+    "sites": [
+        {
+            "id": "1",
+            "name": "MangaDex",
+            "url": "https://mangadex.org",
+            "logo": "https://mangadex.org/logo.png",
+            "description": "Community-driven manga reader with a large collection of scanlations",
+            "language": ["English", "Japanese", "Chinese", "Korean"],
+            "tags": ["scanlation", "community", "free"],
+            "status": "active",
+            "features": ["chapter tracking", "user uploads", "multiple languages"],
+            "added_date": "2024-01-15"
+        },
+        {
+            "id": "2",
+            "name": "MANGA Plus",
+            "url": "https://mangaplus.shueisha.co.jp",
+            "logo": "https://mangaplus.shueisha.co.jp/logo.png",
+            "description": "Official manga platform by Shueisha publishing",
+            "language": ["English", "Spanish", "Japanese"],
+            "tags": ["official", "weekly releases", "shonen jump"],
+            "status": "active",
+            "features": ["simultaneous release", "official translations"],
+            "added_date": "2024-01-16"
+        },
+        {
+            "id": "3",
+            "name": "Crunchyroll Manga",
+            "url": "https://www.crunchyroll.com/comics/manga",
+            "logo": "https://www.crunchyroll.com/logo.png",
+            "description": "Digital manga service by Crunchyroll",
+            "language": ["English"],
+            "tags": ["subscription", "official", "premium"],
+            "status": "active",
+            "features": ["simulpub", "subscription model"],
+            "added_date": "2024-01-17"
+        },
+        {
+            "id": "4",
+            "name": "BookWalker Global",
+            "url": "https://global.bookwalker.jp",
+            "logo": "https://global.bookwalker.jp/logo.png",
+            "description": "Official eBook store for manga and light novels",
+            "language": ["English", "Japanese"],
+            "tags": ["ebook", "official", "paid"],
+            "status": "active",
+            "features": ["digital purchase", "app available"],
+            "added_date": "2024-01-18"
+        },
+        {
+            "id": "5",
+            "name": "Viz Media",
+            "url": "https://www.viz.com/read",
+            "logo": "https://www.viz.com/logo.png",
+            "description": "Official English manga publisher and reader",
+            "language": ["English"],
+            "tags": ["official", "shonen jump", "paid"],
+            "status": "active",
+            "features": ["official translations", "subscription service"],
+            "added_date": "2024-01-19"
+        },
+        {
+            "id": "6",
+            "name": "Comixology",
+            "url": "https://www.comixology.com/manga",
+            "logo": "https://www.comixology.com/logo.png",
+            "description": "Digital comics and manga platform by Amazon",
+            "language": ["English"],
+            "tags": ["paid", "kindle", "digital"],
+            "status": "active",
+            "features": ["kindle integration", "high quality scans"],
+            "added_date": "2024-01-20"
+        }
+    ],
+    "metadata": {
+        "lastUpdated": "2024-02-02T12:00:00Z",
+        "version": "1.0.0",
+        "totalSites": 6,
+        "updateFrequency": "weekly",
+        "maintainer": "Your Name",
+        "contact": "contact@yoursite.com"
+    },
+    "categories": [
+        "Official Sites",
+        "Scanlation Sites",
+        "Subscription Services",
+        "Digital Stores"
+    ],
+    "languages_available": [
+        "English",
+        "Japanese",
+        "Spanish",
+        "Chinese",
+        "Korean"
+    ]
+}
